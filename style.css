@@ -1,0 +1,123 @@
+.btnC {
+    background-color: #97489C;
+    color: white;
+    font-weight: bold;
+    width: 450px;
+}
+
+.btnC:hover {
+    background-color: transparent;
+    color: #97489C;
+    border: 2px solid #97489C;
+}
+
+.tam {
+    width: 450px;
+}
+
+i {
+    color: #97489C;
+    text-align: center;
+    padding: 10px;
+}
+
+hr {
+    border: 2px solid #97489C;
+    opacity: 2;
+    height: 20px;
+}
+
+hr:not([size]) {
+    width: 300px;
+}
+
+.p12 {
+    font-size: 20px;
+}
+
+.btnD {
+    background-color: #97489C;
+    color: white;
+    font-weight: bold;
+    width: 300px;
+}
+
+.btnD:hover {
+    background-color: transparent;
+    color: #97489C;
+    border: 2px solid #97489C;
+}
+
+#texto2 {
+    font-size: 1.75rem;
+    font-weight: bolder;
+}
+
+.btnE {
+    background-color: #97489C;
+    color: white;
+    font-weight: bold;
+    width: 100px;
+}
+
+.btnE:hover {
+    background-color: transparent;
+    color: #97489C;
+    border: 2px solid #97489C;
+}
+
+.form-label {
+    margin-bottom: .5rem;
+    font-weight: bolder;
+    font-size: 17px;
+}
+
+i {
+    font-size: 40px;
+    color: white;
+    transition: 0.5s;
+}
+
+i:hover {
+    font-size: 50px;
+}
+
+.foot{
+    background-color: #97489C;
+}
+
+.links a{
+color: white;
+font-size: 20px;
+transition: 0.5s;
+text-decoration: none;
+}
+.links a:hover{
+font-size: 22px;
+}
+
+.hr2{
+    border-color: white;
+}
+
+.links2{
+    margin-right: 70px;
+}
+.links2 a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-right: 15px;
+    /* transition: 0.5s; */
+
+}
+
+.links2 a:hover{
+    border-bottom: 2px solid #97489C;
+    /* border-bottom: 2px solid #97489C; */
+
+}
+
+.logo img{
+    margin-left: 70px;
+}
